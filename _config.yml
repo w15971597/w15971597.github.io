@@ -23,7 +23,7 @@ email: zand.wang@foxmail.com
 description: zand
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "zand.wang" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: zand
+# twitter_username: zand
 github_username:  zand
 
 # Build settings
